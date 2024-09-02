@@ -1,4 +1,5 @@
 # Github-Username-Generator
+EDUCATIONAL ONLY!!
 ---------------------------------
 Find Github usernames that have not been used
 
